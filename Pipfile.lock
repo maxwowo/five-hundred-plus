@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7888005720751691d9089e9be99f592183e2b096b5784ba6584ef9c74180ba88"
+            "sha256": "e0873ac8faa3a0dbacb9a94dfea3c46d3c48493aa1d84bb15c89618572c8cf77"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,14 @@
         ]
     },
     "default": {
+        "pyfiglet": {
+            "hashes": [
+                "sha256:c6c2321755d09267b438ec7b936825a4910fec696292139e664ca8670e103639",
+                "sha256:d555bcea17fbeaf70eaefa48bb119352487e629c9b56f30f383e2c62dd67a01c"
+            ],
+            "index": "pypi",
+            "version": "==0.8.post1"
+        },
         "selenium": {
             "hashes": [
                 "sha256:2d7131d7bc5a5b99a2d9b04aaf2612c411b03b8ca1b1ee8d3de5845a9be2cb3c",
