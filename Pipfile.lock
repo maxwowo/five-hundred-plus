@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e0873ac8faa3a0dbacb9a94dfea3c46d3c48493aa1d84bb15c89618572c8cf77"
+            "sha256": "29e6e4bf2272f010980288c7a854ae0a518970b3ea4d108c6dd1be4d12c291ee"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,10 @@
         ]
     },
     "default": {
+        "fivehundredplus": {
+            "path": ".",
+            "version": "==0.0.1"
+        },
         "pyfiglet": {
             "hashes": [
                 "sha256:c6c2321755d09267b438ec7b936825a4910fec696292139e664ca8670e103639",

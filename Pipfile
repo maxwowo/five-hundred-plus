@@ -10,6 +10,7 @@ pylint = "*"
 [packages]
 selenium = "*"
 pyfiglet = "*"
+fivehundredplus = {path = "."}
 
 [requires]
 python_version = "3.8"
