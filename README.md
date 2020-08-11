@@ -4,7 +4,7 @@
 
 Scraper tool to help you achieve 500+ connections on LinkedIn as fast as possible.
 
-## ✔️ Prerequisites
+## ✅ Prerequisites
 
 In order to run this project you'll need
 
