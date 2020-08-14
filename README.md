@@ -4,20 +4,20 @@
 
 Scraper tool to help you achieve 500+ connections on LinkedIn as fast as possible.
 
-## ✅ Prerequisites
+## Prerequisites
 
 In order to run this project you'll need
 
 - [Python 3.8](https://www.python.org/downloads/release/python-380/)
 - [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/)
 
-## 📦 Installation
+## Installation
 
 ```bash
 $ pipenv install .
 ```
 
-## 🔨 Usage
+## Usage
 
 ```bash
 $ pipenv run python3 main.py
